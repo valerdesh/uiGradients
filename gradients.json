@@ -1532,5 +1532,9 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
+    },
+    {
+        "name": "valerdesh",
+        "colors": ["#265c9c", "#102769"]
     }
 ]
